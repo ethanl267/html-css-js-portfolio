@@ -1,0 +1,46 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 21%;
+    height: 40%;
+    margin-top: 155px;
+    border-radius: 50%;
+    
+  }
+
+  img {
+    border: 5px solid rgba(85, 85, 85, 0.479);
+  }
+
+h1{
+    text-align: center;
+}
+
+body{
+    color:black;
+    background-color: burlywood;
+    
+}
+
+
+.navbar{
+    overflow: hidden;
+    background-color:coral;
+    height: 100px;
+
+
+}
+.navbar a {
+    float:right;
+    font-size: 20px;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: darksalmon;
+
+}
